@@ -7,12 +7,12 @@ date: 2026-02-11
 创建时间: 2026-02-11 12:54:31
 修改时间: 2026-02-11 12:54:31
 星期: 星期三
+banner: "![[pixel-banner-images/2B Floral (2).jpg]]"
+banner-height: 790
 ---
 
 ## 1— 需要解决问题
-在给java文件命名的时候，有一部分组合不允许。
-![image.png](https://obsidian-1332276919.cos.ap-guangzhou.myqcloud.com/20260211130545343.png)
-
+java文件命名冲突问题。
 ## 2— 本质 意义 解决方法
 ### 2.1— 关键字
 java中所有关键字

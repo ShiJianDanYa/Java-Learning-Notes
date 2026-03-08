@@ -91,19 +91,14 @@ java（混合型）
 <font color="#ff5c00">将java文件 整体 编译 为class文件 在按行交给设备运行</font>
 
 虚拟机（模拟器）
-
 <font color="#ff5c00">java靠虚拟机实现跨平台</font>
 <font color="#ff5c00">Java语言运行在虚拟机中</font>
 ## 15— jdk jre jvm 三者关系 ⭐️⭐️⭐️
 [[jdk jre jvm 三者关系]]
-
-[[黑马 java]]
-
 <aside>
 <img src="https://www.notion.so/icons/push-pin_purple.svg" alt="https://www.notion.so/icons/push-pin_purple.svg" width="40px" /> <font color="#ff0000">总结--反思</font>
 </aside>
-
-基础语法，大同小异都是
+java基础知识，不需要背诵了解即可
 
 笔记整理方法 颜色
 

@@ -11,7 +11,7 @@ banner: "![[pixel-banner-images/138423199_p0.jpg]]"
 banner-height: 630
 ---
 # 注释
-[[注释]]
+[[java注释]]
 # 关键字
 [[java关键字]]
 # class

@@ -39,9 +39,9 @@ date: 2026-02-10
 ### 2.4— <font color="#ff0000">jdk jre jvm三者关系</font> ⭐️⭐️⭐️
 包含关系
 <font color="#6425d0">jdk>jre>jvm</font>
-![image.png](https://obsidian-1332276919.cos.ap-guangzhou.myqcloud.com/20260210214815879.png)
 
+![image.png](https://obsidian-1332276919.cos.ap-guangzhou.myqcloud.com/20260210214815879.png)
 ## 3— 注意事项
-<% tp.file.cursor(3) %>
+无
 ## 4— 知识扩展
-<% tp.file.cursor(4) %>
+无

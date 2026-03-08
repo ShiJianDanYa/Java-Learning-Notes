@@ -26,7 +26,7 @@ banner: "![[pixel-banner-images/Frost 2B (3).jpg]]"
 # ArrayList
 
 
-## 格式
+## 1— 格式
 ```java
 public class ArrayList001 {  
     public static void main(String[] args) {  
@@ -45,7 +45,7 @@ public class ArrayList001 {
 }
 ```
 
-## 成员方法 
+## 2— 成员方法 
 
 ![[附件存储/d77f22d32bfddf88fc29dfa457f42a9c_MD5.png]]
 
@@ -74,7 +74,7 @@ for (int i = 0; i < list.size(); i++) {
 }
 ```
 
-##  基本数据类型所对应的包装类
+## 3— 基本数据类型所对应的包装类
 ![[附件存储/bf740c40549ab4e7cee9fd5474f46828_MD5.png]]
 
 
