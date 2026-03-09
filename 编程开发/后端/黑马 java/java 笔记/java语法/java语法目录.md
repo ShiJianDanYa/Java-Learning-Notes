@@ -14,8 +14,6 @@ banner-height: 630
 [[java注释]]
 # 关键字
 [[java关键字]]
-# class
-[[class]]
 # 字面量
 [[java字面量]]
 # 变量
