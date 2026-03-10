@@ -2,6 +2,7 @@
 title: idea软件
 tags:
   - java
+  - idea
 date: 2026-02-20
 创建时间: 2026-02-20 17:58:53
 修改时间: 2026-02-20 17:58:53
@@ -16,6 +17,7 @@ banner-height: 740
 ## 1— idea概述
 java 集成环境  把代码编写，编译，执行，调试等多种功能综合到一起的开发工具 
 ## 2— 下载安装 傻子都会
+[idea下载地址](https://www.jetbrains.com/idea/download/?section=windows)
 ## 3— idea中的第一个代码
 idea 中的项目结构
 
@@ -25,7 +27,6 @@ idea 中的项目结构
 4. class（类）
 
 大小 项目>模块>包>类
-
 ## 4— 项目和模块操作
 
 1. 新建类
@@ -37,6 +38,6 @@ idea 中的项目结构
 1. 新建项目
 2. 删除项目
 # 3— 注意事项
-<% tp.file.cursor(3) %>
+无
 # 1— 知识扩展
-<% tp.file.cursor(4) %>
+无
