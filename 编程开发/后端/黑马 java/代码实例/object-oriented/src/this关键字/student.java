@@ -1,4 +1,4 @@
-package 面向对象基础.课外练习.学生信息;
+package this关键字;
 
 /**
  * ClassName: student
@@ -28,27 +28,27 @@ public class student {
     //提供 get/set方法
     //赋值方法
     //姓名
-    public void setName(String value){
-        name = value;
+    public void setName(String name){
+        this.name = name;
     }
     //年龄
-    public void setAge(int value){age = value;}
+    public void setAge(int age){this.age = age;}
     //身高
-    public void setHeight(double value){height = value;}
+    public void setHeight(double height){this.height = height;}
     //体重
-    public void setWeight(double value){weight = value;}
+    public void setWeight(double weight){this.weight = weight;}
     //体重增减
     //增加
-    public void gainWeight(double value){
-        weight += value;
+    public void gainWeight(double weight){
+        this.weight += weight;
     }
     //减少
-    public void clossOfWeight(double value){
-        weight -= value;
+    public void clossOfWeight(double weight){
+        this.weight -= weight;
     }
     //身高增加
-    public void gainHeight(double value){
-        height += value;
+    public void gainHeight(double height){
+        this.height += height;
     }
     //获取方法
     //姓名

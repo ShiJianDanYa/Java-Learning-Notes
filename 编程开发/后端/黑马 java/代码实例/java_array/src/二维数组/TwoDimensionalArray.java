@@ -30,6 +30,7 @@ public class TwoDimensionalArray {
         //二维数组的访问
         //数组名[行索引]
         String[] arr3 = names[2];
+        System.out.println("直接输出:"+arr3);
         //遍历数组
         for(int i = 0;i < arr3.length;i++){
             System.out.println(arr3[i]);
@@ -47,7 +48,7 @@ public class TwoDimensionalArray {
         //遍历二维数组(静态初始化不规则)
         for(int i = 0;i < names.length;i++){
             for(int j =0;j< names[i].length;j++){
-                System.out.print(names[i][j]);
+                System.out.print(names[i][j]+"\t");
             }
             System.out.println();
         }
