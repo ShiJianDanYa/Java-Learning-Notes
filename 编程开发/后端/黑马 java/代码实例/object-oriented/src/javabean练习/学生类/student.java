@@ -38,12 +38,13 @@ public class student {
     }
     //方法 学习 吃饭 睡觉
     public void study(){
-        System.out.println("学习");
+        System.out.println(name+"学习");
     }
     public void eat(){
-        System.out.println("吃饭");
+        System.out.println(name+"吃饭");
     }
     public void sleep(){
-        System.out.println("睡觉");
+        System.out.println(name+"睡觉");
     }
+
 }

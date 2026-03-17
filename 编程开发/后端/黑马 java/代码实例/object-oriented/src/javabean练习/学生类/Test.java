@@ -21,6 +21,12 @@ public class Test {
         s1.study();
         s1.eat();
         s1.sleep();
+        //全参构造
+        student s2 = new student("李四",24);
+        System.out.println("姓名："+s2.getName()+"年龄："+s2.getAge());
+        s2.study();
+        s2.eat();
+        s2.sleep();
     }
 
 }
