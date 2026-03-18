@@ -1,4 +1,4 @@
-package 枚举.课堂练习.订单状态;
+package 枚举.课堂练习.注意事项;
 
 /**
  * ClassName: OrderStatus
@@ -10,7 +10,7 @@ package 枚举.课堂练习.订单状态;
  * @Version: v1.0
  *
  */
-public enum OrderStatus {
+public enum OrderStatus2 {
     /*
     电商项目中，订单的状态只有以下6种，请编写代码实现。
     待支付     PAYMENT_PENDING
@@ -33,7 +33,7 @@ public enum OrderStatus {
     //为什么用private修饰,因为不能让外界创建对象啊
     //补充灰色代表可以省略不写
     //即使我们不用private 虚拟机也会自动为我们加上
-    OrderStatus(String name) {
+    OrderStatus2(String name) {
         this.name = name;
     }
     //方法
