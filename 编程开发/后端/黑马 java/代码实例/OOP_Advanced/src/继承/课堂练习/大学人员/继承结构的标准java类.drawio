@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="第 1 页" id="FKf7zmMdggyNVS3DNo_P">
+    <mxGraphModel dx="958" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-1" value="Person&lt;div&gt;属性:姓名 年龄&lt;/div&gt;&lt;div&gt;行为 吃饭 睡觉&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="359" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8C7p3pVehwHhhAjmWyO-2" target="k8C7p3pVehwHhhAjmWyO-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-2" value="Student&lt;div&gt;属性 年纪&lt;/div&gt;&lt;div&gt;行为 学习&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="249" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8C7p3pVehwHhhAjmWyO-4" target="k8C7p3pVehwHhhAjmWyO-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-4" value="Teacher&lt;div&gt;属性 学科&lt;/div&gt;&lt;div&gt;行为&amp;nbsp; 教书&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="469" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="k8C7p3pVehwHhhAjmWyO-6" target="k8C7p3pVehwHhhAjmWyO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-6" value="本科学生&lt;div&gt;重写学习方法&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8C7p3pVehwHhhAjmWyO-8" target="k8C7p3pVehwHhhAjmWyO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-8" value="硕士研究生&lt;div&gt;重写学习方法&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8C7p3pVehwHhhAjmWyO-9" target="k8C7p3pVehwHhhAjmWyO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-9" value="专业课老师&lt;div&gt;重写教书方法&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k8C7p3pVehwHhhAjmWyO-10" target="k8C7p3pVehwHhhAjmWyO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k8C7p3pVehwHhhAjmWyO-10" value="通识课老师&lt;div&gt;重写教书方法&lt;/div&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
