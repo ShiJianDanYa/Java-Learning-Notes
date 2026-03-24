@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         Zi z = new Zi();
-        //利用第三方工具，获取对象真实的内存地址
+        //利用第三方工具，获取对象真实的内存地址 69aca9aa8       23940
         System.out.println("对象Z在内存中的真实地址是："+Long.toHexString(VM.current().addressOf(z)));
         //键盘录入目的为程序不停止
         Scanner sc = new Scanner(System.in);
@@ -31,7 +31,7 @@ public class Test {
         static int staticFu = 0x333;
     }
     class Zi extends Fu{
-        private int a = 0x444;
+        private int c = 0x444;
         int b = 0x555;
         static int staticZi = 0x666;
     }
