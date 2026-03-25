@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c80f0061-e5d5-4c07-b91e-1817d9ef1702" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP_MoveForward/src/static关键字/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_MoveForward/src/static关键字/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/构造方法/注意事项/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/构造方法/注意事项/matters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/判断语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/判断语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/选择语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/选择语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/this关键字.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/构造方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象中的数据安全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/构造方法/课堂练习/注意事项.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2v6iyjRDfspJ4bIS8GkegTzFA5Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/个人知识体系/编程开发/后端/黑马 java/代码实例/java_zj",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/个人知识体系/知识管理/Obsidian/笔记软件/后端学习/黑马java/黑马 Java 代码/java_zj/src/Main.java",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.2835314",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.AreaOfCircle02.executor": "Run",
+    "应用程序.AutomobileTest.executor": "Run",
+    "应用程序.CharacterString.executor": "Run",
+    "应用程序.DDF.executor": "Run",
+    "应用程序.DTCSH.executor": "Run",
+    "应用程序.DataType.executor": "Run",
+    "应用程序.DrawaLotteryOrRaffle.executor": "Run",
+    "应用程序.EncryPtion.executor": "Run",
+    "应用程序.Girlfriend01Test.executor": "Run",
+    "应用程序.GoodsTest.executor": "Run",
+    "应用程序.LogIn.executor": "Run",
+    "应用程序.MethodOverloading.executor": "Run",
+    "应用程序.MethodTest.executor": "Run",
+    "应用程序.PhoneTest.executor": "Run",
+    "应用程序.PlaneTicket.executor": "Run",
+    "应用程序.PrimeNumber.executor": "Run",
+    "应用程序.PutIntoTheArray.executor": "Run",
+    "应用程序.RoleTest.executor": "Run",
+    "应用程序.SB.executor": "Run",
+    "应用程序.StudentTest.executor": "Run",
+    "应用程序.Test3.executor": "Run",
+    "应用程序.Two_Dimension08.executor": "Run",
+    "应用程序.Two_DimensionalArray.executor": "Run",
+    "应用程序.UnionLotto.executor": "Run",
+    "应用程序.VerificationCode.executor": "Run",
+    "应用程序.ceuilw.executor": "Run",
+    "应用程序.compare.executor": "Run",
+    "应用程序.compare03.executor": "Run",
+    "应用程序.copy07.executor": "Run",
+    "应用程序.duplication.executor": "Run",
+    "应用程序.ergodic04.executor": "Run",
+    "应用程序.identical06.executor": "Run",
+    "应用程序.line.executor": "Run",
+    "应用程序.maximum05.executor": "Run",
+    "应用程序.method01.executor": "Run",
+    "应用程序.method02.executor": "Run",
+    "应用程序.pupilTest.executor": "Run",
+    "应用程序.score.executor": "Run",
+    "应用程序.sum01.executor": "Run",
+    "应用程序.接收数据.executor": "Run"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\个人知识体系\知识管理\后端学习\黑马 java\黑马 Java 代码\java_zj\src\专题综合练习\案例07数字解密" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.CharacterString">
+    <configuration name="CharacterString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂代码.字符串.创建字符串.CharacterString" />
+      <module name="java_zj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂代码.字符串.创建字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="练习.字符串.用户登录01.LogIn" />
+      <module name="java_zj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="练习.字符串.用户登录01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="专题综合练习.面向对象.案例03学生.Test3" />
+      <module name="java_zj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="专题综合练习.面向对象.案例03学生.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="课堂代码.字符串.字符串的比较.compare" />
+      <module name="java_zj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="课堂代码.字符串.字符串的比较.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pupilTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="专题综合练习.面向对象.案例03学生.pupilTest" />
+      <module name="java_zj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="专题综合练习.面向对象.案例03学生.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.pupilTest" />
+        <item itemvalue="应用程序.compare" />
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.LogIn" />
+        <item itemvalue="应用程序.CharacterString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c80f0061-e5d5-4c07-b91e-1817d9ef1702" name="更改" comment="" />
+      <created>1743472188266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743472188266</updated>
+      <workItem from="1743472191178" duration="19335000" />
+      <workItem from="1743558088010" duration="182000" />
+      <workItem from="1743558297118" duration="2541000" />
+      <workItem from="1743727773375" duration="2711000" />
+      <workItem from="1743735001454" duration="1970000" />
+      <workItem from="1743737319378" duration="2285000" />
+      <workItem from="1743753508174" duration="840000" />
+      <workItem from="1743765340301" duration="4493000" />
+      <workItem from="1743775813812" duration="163000" />
+      <workItem from="1743776633939" duration="1156000" />
+      <workItem from="1743777981322" duration="243000" />
+      <workItem from="1743778559002" duration="1426000" />
+      <workItem from="1743813961512" duration="2245000" />
+      <workItem from="1743817465234" duration="3407000" />
+      <workItem from="1743822602249" duration="4230000" />
+      <workItem from="1743856568361" duration="6828000" />
+      <workItem from="1743900618225" duration="7270000" />
+      <workItem from="1743916531566" duration="227000" />
+      <workItem from="1743917192134" duration="104000" />
+      <workItem from="1743917404300" duration="168000" />
+      <workItem from="1743985614433" duration="3726000" />
+      <workItem from="1743993876600" duration="3713000" />
+      <workItem from="1744079412898" duration="3971000" />
+      <workItem from="1744090298072" duration="265000" />
+      <workItem from="1744115420262" duration="1374000" />
+      <workItem from="1744116825602" duration="2833000" />
+      <workItem from="1744161875635" duration="2544000" />
+      <workItem from="1744170001277" duration="539000" />
+      <workItem from="1744171510794" duration="56000" />
+      <workItem from="1744178014414" duration="350000" />
+      <workItem from="1744179382061" duration="141000" />
+      <workItem from="1744179614612" duration="6779000" />
+      <workItem from="1744943126212" duration="278000" />
+      <workItem from="1745113799542" duration="631000" />
+      <workItem from="1745220815984" duration="1691000" />
+      <workItem from="1745225955987" duration="649000" />
+      <workItem from="1745292514780" duration="20000" />
+      <workItem from="1745333309425" duration="624000" />
+      <workItem from="1745334014271" duration="13000" />
+      <workItem from="1745493770342" duration="7052000" />
+      <workItem from="1745501991744" duration="230000" />
+      <workItem from="1745503590289" duration="1127000" />
+      <workItem from="1745504838444" duration="74000" />
+      <workItem from="1746772671346" duration="39000" />
+      <workItem from="1747014380813" duration="168000" />
+      <workItem from="1760273633761" duration="317000" />
+      <workItem from="1760273993980" duration="110000" />
+      <workItem from="1760274273899" duration="69000" />
+      <workItem from="1760274429703" duration="1114000" />
+      <workItem from="1760275648952" duration="509000" />
+      <workItem from="1760319800197" duration="911000" />
+      <workItem from="1760354419572" duration="243000" />
+      <workItem from="1760440125919" duration="623000" />
+      <workItem from="1760515733807" duration="1286000" />
+      <workItem from="1760517073691" duration="378000" />
+      <workItem from="1760517547157" duration="113000" />
+      <workItem from="1760517701745" duration="42000" />
+      <workItem from="1760517876371" duration="130000" />
+      <workItem from="1760518072612" duration="399000" />
+      <workItem from="1760518654093" duration="1119000" />
+      <workItem from="1760523182217" duration="391000" />
+      <workItem from="1760523614452" duration="1147000" />
+      <workItem from="1760524810556" duration="629000" />
+      <workItem from="1760525501274" duration="526000" />
+      <workItem from="1760527112048" duration="930000" />
+      <workItem from="1760539447551" duration="203000" />
+      <workItem from="1760578410043" duration="89000" />
+      <workItem from="1760600493940" duration="3097000" />
+      <workItem from="1760603653952" duration="2810000" />
+      <workItem from="1760607220032" duration="225000" />
+      <workItem from="1760607503265" duration="351000" />
+      <workItem from="1760607893590" duration="123000" />
+      <workItem from="1760608060477" duration="400000" />
+      <workItem from="1760610460409" duration="632000" />
+      <workItem from="1760617133102" duration="220000" />
+      <workItem from="1760617410830" duration="469000" />
+      <workItem from="1760620740936" duration="284000" />
+      <workItem from="1760673659864" duration="49000" />
+      <workItem from="1760686090400" duration="104000" />
+      <workItem from="1760693761964" duration="1388000" />
+      <workItem from="1760791897812" duration="74000" />
+      <workItem from="1760792006968" duration="642000" />
+      <workItem from="1760837494949" duration="941000" />
+      <workItem from="1760882541998" duration="1699000" />
+      <workItem from="1760892920769" duration="84000" />
+      <workItem from="1760921841149" duration="598000" />
+      <workItem from="1760939201884" duration="1038000" />
+      <workItem from="1760962688317" duration="13000" />
+      <workItem from="1761008053558" duration="85000" />
+      <workItem from="1761142092390" duration="35000" />
+      <workItem from="1761197726484" duration="58000" />
+      <workItem from="1761230238553" duration="17000" />
+      <workItem from="1761290695559" duration="71000" />
+      <workItem from="1761400827777" duration="146000" />
+      <workItem from="1761401030530" duration="13000" />
+      <workItem from="1761401085139" duration="349000" />
+      <workItem from="1761401621965" duration="1846000" />
+      <workItem from="1761407423043" duration="347000" />
+      <workItem from="1761407879838" duration="201000" />
+      <workItem from="1761446119081" duration="21000" />
+      <workItem from="1761447988409" duration="27000" />
+      <workItem from="1763367078762" duration="1569000" />
+      <workItem from="1763368909076" duration="33000" />
+      <workItem from="1763368952984" duration="386000" />
+      <workItem from="1763369473819" duration="25000" />
+      <workItem from="1763370442660" duration="11000" />
+      <workItem from="1763370716220" duration="23000" />
+      <workItem from="1763370918019" duration="286000" />
+      <workItem from="1767400934010" duration="1015000" />
+      <workItem from="1767425200378" duration="419000" />
+      <workItem from="1767426411537" duration="556000" />
+      <workItem from="1767432261125" duration="2707000" />
+      <workItem from="1767511050338" duration="1918000" />
+      <workItem from="1767576033532" duration="1332000" />
+      <workItem from="1767582770440" duration="2588000" />
+      <workItem from="1767620532072" duration="906000" />
+      <workItem from="1767657181076" duration="221000" />
+      <workItem from="1767657424981" duration="55000" />
+      <workItem from="1767670994053" duration="1286000" />
+      <workItem from="1767753956549" duration="18000" />
+      <workItem from="1767754019944" duration="101000" />
+      <workItem from="1767769759327" duration="1613000" />
+      <workItem from="1767872789646" duration="27000" />
+      <workItem from="1767933616434" duration="1072000" />
+      <workItem from="1767947064072" duration="3794000" />
+      <workItem from="1768012376226" duration="266000" />
+      <workItem from="1768012766838" duration="23000" />
+      <workItem from="1768141215861" duration="112000" />
+      <workItem from="1768263014977" duration="26000" />
+      <workItem from="1768276598056" duration="690000" />
+      <workItem from="1768394130170" duration="544000" />
+      <workItem from="1768665769491" duration="76000" />
+      <workItem from="1768800510878" duration="539000" />
+      <workItem from="1768997966028" duration="72000" />
+      <workItem from="1769155822115" duration="439000" />
+      <workItem from="1769156357138" duration="605000" />
+      <workItem from="1769527677677" duration="119000" />
+      <workItem from="1769589265258" duration="1495000" />
+      <workItem from="1769750845204" duration="924000" />
+      <workItem from="1769769417968" duration="92000" />
+      <workItem from="1769844286416" duration="14000" />
+      <workItem from="1769959344680" duration="66000" />
+      <workItem from="1770013366578" duration="916000" />
+      <workItem from="1770475787678" duration="436000" />
+      <workItem from="1770476259012" duration="213000" />
+      <workItem from="1770786298455" duration="341000" />
+      <workItem from="1770789756554" duration="155000" />
+      <workItem from="1772184652108" duration="20000" />
+      <workItem from="1773647831297" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/练习/面向对象/女朋友01/Girlfriend01Test.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/课堂代码/方法/方法的声明使用/无参/method01.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

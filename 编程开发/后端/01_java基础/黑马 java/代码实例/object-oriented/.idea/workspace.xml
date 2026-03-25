@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="521ed769-bf3c-4b0b-af3c-e30187e100ec" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/构造方法/注意事项/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/构造方法/注意事项/matters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/this关键字.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/构造方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象中的数据安全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabean练习/学生类/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabean练习/学生类/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javabean练习/学生类/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabean练习/学生类/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/构造方法/课堂练习/注意事项.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3AjiyQr0CSYQjUi1kmT84HBKaRd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/个人知识体系/编程开发/后端/黑马 java/代码实例/object-oriented/src/this关键字&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/个人知识体系/编程开发/后端/黑马 java/代码实例/object-oriented/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人知识体系\编程开发\后端\黑马 java\代码实例\object-oriented\src\this关键字" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="521ed769-bf3c-4b0b-af3c-e30187e100ec" name="更改" comment="" />
+      <created>1773112642501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773112642501</updated>
+      <workItem from="1773112644510" duration="1987000" />
+      <workItem from="1773127108592" duration="10301000" />
+      <workItem from="1773149818762" duration="101000" />
+      <workItem from="1773193910964" duration="1847000" />
+      <workItem from="1773214031052" duration="3579000" />
+      <workItem from="1773230970387" duration="975000" />
+      <workItem from="1773231972856" duration="3199000" />
+      <workItem from="1773236731032" duration="666000" />
+      <workItem from="1773289676805" duration="2094000" />
+      <workItem from="1773292221452" duration="655000" />
+      <workItem from="1773305704395" duration="162000" />
+      <workItem from="1773320422182" duration="71000" />
+      <workItem from="1773479448197" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

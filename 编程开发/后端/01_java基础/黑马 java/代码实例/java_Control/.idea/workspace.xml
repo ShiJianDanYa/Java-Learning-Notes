@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acc0e4cf-8733-4e59-b6b0-2509cde57a37" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP_MoveForward/src/static关键字/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_MoveForward/src/static关键字/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/构造方法/注意事项/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/构造方法/注意事项/matters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第三种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/if第二种形式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/判断语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/判断语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/选择语句.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/选择语句.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/this关键字.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/构造方法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象中的数据安全.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/javabean练习/学生类/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/构造方法/课堂练习/注意事项.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3B1DJqPpGpPoz8y6YcWDACqa7ym" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/个人知识体系/编程开发/后端/黑马 java/代码实例/java_Control/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="acc0e4cf-8733-4e59-b6b0-2509cde57a37" name="更改" comment="" />
+      <created>1773647618679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773647618679</updated>
+      <workItem from="1773647619927" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

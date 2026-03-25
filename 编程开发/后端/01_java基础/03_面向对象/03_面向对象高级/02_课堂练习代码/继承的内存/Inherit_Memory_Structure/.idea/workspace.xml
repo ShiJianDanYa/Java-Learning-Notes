@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc9d9a0e-1743-450b-8a2a-3c86adbde78f" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../java语法/笔记/二维数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java语法/笔记/二维数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java语法/笔记/动态初始化.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java语法/笔记/动态初始化.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java语法/笔记/数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java语法/笔记/数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../java语法/笔记/方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../java语法/笔记/方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../笔记/继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../笔记/继承.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/内存分析/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/内存分析/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../黑马 java/代码实例/java_array/src/数组的课外练习/快慢指针.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../黑马 java/代码实例/java_array/src/数组的课外练习/快慢指针.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3BFKQTTglbu7GJb2stcHFLwmNWJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/个人知识体系/编程开发/后端/面向对象/面向对象高级/课堂练习代码/继承的内存/Inherit_Memory_Structure/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/个人知识体系/编程开发/后端/面向对象/面向对象高级/课堂练习代码/继承的内存/Inherit_Memory_Structure/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.MemoryStructure.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\个人知识体系\编程开发\后端\面向对象\面向对象高级\课堂练习代码\继承的内存\Inherit_Memory_Structure\lib" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fc9d9a0e-1743-450b-8a2a-3c86adbde78f" name="更改" comment="" />
+      <created>1774079367411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774079367411</updated>
+      <workItem from="1774079369543" duration="3978000" />
+      <workItem from="1774311232831" duration="1141000" />
+      <workItem from="1774314396177" duration="372000" />
+      <workItem from="1774315267220" duration="2039000" />
+      <workItem from="1774327427783" duration="2469000" />
+      <workItem from="1774337480423" duration="190000" />
+      <workItem from="1774337896672" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

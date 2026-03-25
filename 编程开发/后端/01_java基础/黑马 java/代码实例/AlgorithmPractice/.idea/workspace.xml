@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfb39bf9-dd22-4e2c-9d2c-ffd8cce0fb72" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../java_array/src/二维数组练习/Disorganize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/this关键字/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/this关键字/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/java语法目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/java语法目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/二维数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/二维数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_array/src/二维数组/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_array/src/二维数组/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AWItm7U1S6mQI0HlX82MnlRLKY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/个人知识体系/编程开发/后端/黑马 java/代码实例/AlgorithmPractice/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bfb39bf9-dd22-4e2c-9d2c-ffd8cce0fb72" name="更改" comment="" />
+      <created>1772702120047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772702120047</updated>
+      <workItem from="1772702122992" duration="2757000" />
+      <workItem from="1772707564108" duration="504000" />
+      <workItem from="1772708108113" duration="477000" />
+      <workItem from="1773230931191" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
