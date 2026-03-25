@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfb39bf9-dd22-4e2c-9d2c-ffd8cce0fb72" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/../java_array/src/二维数组练习/Disorganize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-oriented/src/this关键字/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-oriented/src/this关键字/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/java语法目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/java语法目录.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java 笔记/java语法/二维数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/java语法/二维数组.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象/什么是面向对象.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../java 笔记/面向对象/面向对象目录.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java_array/src/二维数组/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_array/src/二维数组/TwoDimensionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object-oriented/src/面向对象基础/课外练习/学生信息/student.java" afterDir="false" />
-    </list>
+    <list default="true" id="bfb39bf9-dd22-4e2c-9d2c-ffd8cce0fb72" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -46,14 +34,16 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/个人知识体系/编程开发/后端/01_java基础/黑马 java/代码实例/AlgorithmPractice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/个人知识体系/编程开发/后端/黑马 java/代码实例/AlgorithmPractice/src/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,6 +66,7 @@
       <workItem from="1772707564108" duration="504000" />
       <workItem from="1772708108113" duration="477000" />
       <workItem from="1773230931191" duration="36000" />
+      <workItem from="1774424212673" duration="1407000" />
     </task>
     <servers />
   </component>
