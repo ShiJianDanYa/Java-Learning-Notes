@@ -24,7 +24,20 @@ banner-height: 710
 专业一点
 ![[附件存储/268ee68ad0a295e4e4a71d40a87eec7d_MD5.jpg]]
 
+代码演示
+private 修饰 除了同一个类其他均无法调用
+![[附件存储/20da4d53d5ce5fb5a6935b234d9ce527_MD5.jpg]]
+空着不写 本包生效
+![[附件存储/5dcfcc95d89df07212561c9c921b5b22_MD5.jpg]]
+以前创建 对象
+![[附件存储/8fd34efa357b4185e9a403be9654bb0c_MD5.jpg]]
+![[附件存储/277723ade607bb0c070685fbb7754014_MD5.jpg]]
+protected修饰
+![[附件存储/90435249fa7bc15ff312190c6bf28079_MD5.jpg]]
+public 修饰(公共的)
+![[附件存储/749882d006a6ae7994b702502bc9af73_MD5.jpg]]
+
 # 3— 注意事项
-<% tp.file.cursor(3) %>
+🈚️
 # 4— 知识扩展
-<% tp.file.cursor(4) %>
+🈚️
