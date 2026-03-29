@@ -10,9 +10,9 @@ banner: "![[pixel-banner-images/54960030fb1965745fea91470e1e2a5695f7af481c6bcd-X
 红色--重点🔴
 # java 基础知识
 ## 1— 图形化
-[[图形化界面]]
+[[01_图形化界面]]
 ## 2— cmd
-[[cmd]]
+[[02_cmd]]
 ## 3— java是什么
 计算机与语言
 ## 4— jdk 
@@ -21,7 +21,7 @@ banner: "![[pixel-banner-images/54960030fb1965745fea91470e1e2a5695f7af481c6bcd-X
 ## 5— 安装目录 ⭐️
 1. <font color="#ff0000">bin 存放各种工具命令</font>
 2. conf 存放相关配置文件
-3. include 存放平台特定文件
+3. include 存放平台特定头文件
 4. jmods 存放各种模块
 5. legal 各种模块的授权文档
 6. lib 工具的一些补充jar包
