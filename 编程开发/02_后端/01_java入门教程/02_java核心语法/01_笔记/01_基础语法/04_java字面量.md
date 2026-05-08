@@ -78,3 +78,10 @@ package ch04字面量;
 无
 ## 4— 知识扩展
 [[05_特殊字符串|点击跳转 特殊字符串]]
+### 字面量的默认类型
+整数 → 1 2 100 默认 int 
+小数浮点类 → 3.14  2.5 默认 double
+字符 → 'a' 'b' 'c' 默认 char
+字符串 → "abcdef" 默认 String
+布尔 → true false 默认 boolean
+
