@@ -11,7 +11,7 @@ date: 2026-02-27
 banner: "![[pixel-banner-images/2b白 (7).jpg]]"
 banner-height: 950
 ---
-![[for循环语句.png]]
+
 # 1— 需要解决问题
 已经确定好循环次数，该怎么循环？
 # 2— 本质 意义 解决方法
