@@ -25,10 +25,10 @@ public class ch01_逢七过 {
 		*/
 		for (int i = 1; i <= 100; i++) {
 			if(i%7==0||i/10==7||i%10==7){
-				System.out.println("过");
+				System.out.print("过,");
 				continue;
 			}
-			System.out.println(i);
+			System.out.print(i+",");
 		}
 		System.out.println("结束");
 	}
