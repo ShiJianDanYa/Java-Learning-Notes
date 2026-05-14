@@ -11,7 +11,7 @@ date: 2026-03-05
 banner: "![[pixel-banner-images/2B黑丝 (25).jpg]]"
 banner-height: 940
 ---
-
+![[内存管理.png]]
 # 1— 需要解决问题
 
 # 2— 本质 意义 解决方法
