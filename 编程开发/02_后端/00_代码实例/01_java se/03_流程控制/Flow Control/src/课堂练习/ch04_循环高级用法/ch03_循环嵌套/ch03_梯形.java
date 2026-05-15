@@ -25,8 +25,11 @@ public class ch03_梯形 {
 			}
 			//  1 2 3
 			//* 3 5 7
-			for(int k=1;k<=(2*i+1);k++){
+			/*for(int k=1;k<=(2*i+1);k++){
 				System.out.print("*");
+			}*/
+			for(int k=3;k<=7;k+=2){
+				System.out.print(" * ");
 			}
 			//换行
 			System.out.println();
