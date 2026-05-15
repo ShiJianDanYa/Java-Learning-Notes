@@ -59,7 +59,6 @@ public class 红包问题标准解法 {
             int myMoney = random.nextInt(m-(n-i))+1;
             //总额减去已经抢到的红包总额
             m = m-myMoney;
-
             System.out.println("第"+i+"个人抢到红包："+myMoney);
         }
         //输出最后一个人的钱
