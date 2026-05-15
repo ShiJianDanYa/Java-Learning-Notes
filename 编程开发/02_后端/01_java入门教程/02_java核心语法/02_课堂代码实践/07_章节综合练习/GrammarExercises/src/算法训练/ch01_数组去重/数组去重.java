@@ -18,8 +18,8 @@ public class 数组去重 {
     输入: nums = [3,2,2,3] val = 3
     输出：nums=[2,2] 剩余2个元素举例1:
 
-    输入: nums = [0,1,2,2,3,0,4,2]
-    val = 2输出：nums =[0,1,3,0,4] 剩余5个元素
+    输入: nums = [0,1,2,2,3,0,4,2]  val = 2
+    输出：nums =[0,1,3,0,4] 剩余5个元素
     */
     public static void main (String[] args){
         //用户需要输入数组和指定元素
