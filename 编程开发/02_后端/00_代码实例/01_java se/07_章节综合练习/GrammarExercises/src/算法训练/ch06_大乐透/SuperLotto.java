@@ -94,6 +94,7 @@ public class SuperLotto {
 	}
 	//用户输入方法
 	//arr 被添加数组   a随机范围 默认从1开始  b c添加号码的范围
+	//判断用户输入的号码是否合法
 	public static int[] inputLotteryNumber(int[]  arr ,int a,int b,int c){
 		Scanner sc = new Scanner(System.in);
 		//分为两部分
