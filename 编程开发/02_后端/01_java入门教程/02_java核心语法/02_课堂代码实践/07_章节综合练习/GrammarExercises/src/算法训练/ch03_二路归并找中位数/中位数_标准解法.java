@@ -39,7 +39,10 @@ public class 中位数_标准解法 {
 	//定义方法合并数组
 	public static int[] merge(int[] arr1,int[] arr2){
 		//变量存储数组的长度
-		int length1 = arr1.length,length2 = arr2.length,length = length1+length2;
+		int length1 = arr1.length,
+			length2 = arr2.length,
+			length = length1+length2;
+
 		int[] arr3 = new int[length];
 		//定义指针
 		int index1 = 0,index2 = 0;
