@@ -1,4 +1,4 @@
-package ch01面向对象基础.课外练习.学生信息;
+package ch02课堂练习.ch05this关键字.this改进学生;
 
 /**
  * ClassName: Test

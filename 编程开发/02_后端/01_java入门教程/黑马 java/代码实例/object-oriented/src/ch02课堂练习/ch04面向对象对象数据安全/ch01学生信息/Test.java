@@ -1,4 +1,4 @@
-package this关键字;
+package ch02课堂练习.ch04面向对象对象数据安全.ch01学生信息;
 
 /**
  * ClassName: Test

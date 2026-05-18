@@ -1,4 +1,4 @@
-package ch01面向对象基础.课外练习.学生信息;
+package ch02课堂练习.ch04面向对象对象数据安全.ch01学生信息;
 
 /**
  * ClassName: student
