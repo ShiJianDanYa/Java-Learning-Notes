@@ -1,4 +1,4 @@
-package ch01面向对象基础.面向对象练习.老师;
+package ch01课堂代码.ch03面向对象小细节.ch01老师;
 
 /**
  * ClassName: Test

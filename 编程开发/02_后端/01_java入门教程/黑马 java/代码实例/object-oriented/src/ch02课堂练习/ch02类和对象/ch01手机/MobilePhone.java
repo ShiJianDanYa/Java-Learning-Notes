@@ -1,4 +1,4 @@
-package ch01面向对象基础.面向对象.手机;
+package ch02课堂练习.ch02类和对象.ch01手机;
 
 /**
  * ClassName: MobilePhone

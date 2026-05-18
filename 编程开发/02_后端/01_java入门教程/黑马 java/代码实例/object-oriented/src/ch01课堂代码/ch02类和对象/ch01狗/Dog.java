@@ -1,4 +1,4 @@
-package 课堂代码.ch02类和对象.ch01狗;
+package ch01课堂代码.ch02类和对象.ch01狗;
 
 /**
  * ClassName: Dog

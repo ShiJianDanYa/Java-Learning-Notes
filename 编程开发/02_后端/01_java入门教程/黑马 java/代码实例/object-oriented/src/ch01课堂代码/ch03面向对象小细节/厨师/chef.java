@@ -1,4 +1,4 @@
-package ch01面向对象基础.面向对象练习.厨师;
+package ch01课堂代码.ch03面向对象小细节.厨师;
 
 /**
  * ClassName: chef
