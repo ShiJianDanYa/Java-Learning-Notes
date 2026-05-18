@@ -1,4 +1,4 @@
-package javabean练习.学生类;
+package ch02课堂练习.ch06javaBean类.ch01学生类;
 
 /**
  * ClassName: Test
