@@ -1,4 +1,4 @@
-package 构造方法.注意事项;
+package ch01课堂代码.ch06构造方法.ch02注意事项;
 
 /**
  * ClassName: Test
