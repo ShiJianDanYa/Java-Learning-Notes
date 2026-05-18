@@ -1,4 +1,4 @@
-package 数据安全.小狗;
+package ch01课堂代码.ch04面向对象的数据安全.ch01小狗;
 
 /**
  * ClassName: dog
