@@ -18,6 +18,7 @@ public class Test {
         w1.age = 18;
         w1.working = 10;
         //输出信息
+
         System.out.println(w1.name);
         System.out.println(w1.age);
         System.out.println(w1.working);
