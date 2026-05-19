@@ -15,7 +15,7 @@ banner-height: 880
 # 1— 需要解决问题
 全面认识main
 # 2— 本质 意义 解决方法
-![image.png](https://obsidian-1332276919.cos.ap-guangzhou.myqcloud.com/20260317194817950.png)
+![[01_main方法_2026-05-19_16-45-23.png]]
 public：被JVM调用，访问权限最大
 static: 被JIVM调用，类名访问,测试类中其他方法也是静态的(main方法需要调用他们 静态只能调静态)
 void：不需要给JVM返回值
