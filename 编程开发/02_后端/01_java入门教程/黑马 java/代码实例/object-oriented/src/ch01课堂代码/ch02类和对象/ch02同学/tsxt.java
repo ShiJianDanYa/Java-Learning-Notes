@@ -1,4 +1,4 @@
-package ch01课堂代码.ch02类和对象.ch01狗.ch02同学;
+package ch01课堂代码.ch02类和对象.ch02同学;
 
 /**
  * ClassName: tsxt
