@@ -2,7 +2,7 @@ package 枚举.课堂练习.注意事项;
 
 /**
  * ClassName: OrderStatus
- * Package: 枚举.课堂练习.订单状态
+ * Package: ch02课堂练习.ch03枚举.订单状态
  * Description:
  *
  * @Author:锏澹
