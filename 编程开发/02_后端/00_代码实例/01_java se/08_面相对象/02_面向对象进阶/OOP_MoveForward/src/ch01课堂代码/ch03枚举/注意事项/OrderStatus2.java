@@ -34,7 +34,6 @@ public enum OrderStatus2 {
     //补充灰色代表可以省略不写
     //即使我们不用private 虚拟机也会自动为我们加上
     OrderStatus2(String name) {
-        System.out.println("看看我执行了吗?"+name);
         this.name = name;
     }
     //方法

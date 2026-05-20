@@ -23,9 +23,8 @@ public class Matters {
     valueOf（）：表示获取一个指定的枚举项OrderState.
     */
     public static void main(String[] args){
-        OrderStatus2 outForDelivery = OrderStatus2.OUT_FOR_DELIVERY;
-        System.out.println(outForDelivery.getName());
-        /*//两个方法调用
+
+        //两个方法调用
         OrderStatus2[] values = OrderStatus2.values();
         //输出
         for (int i = 0; i < values.length; i++) {
@@ -36,7 +35,8 @@ public class Matters {
         //注意()里面的名字是枚举项中对象名可不是name属性名
         OrderStatus2 outForDelivery = OrderStatus2.valueOf("OUT_FOR_DELIVERY");
         //输出
-        System.out.println(outForDelivery);*/
+        System.out.println(outForDelivery);
+        System.out.println(outForDelivery.getName());
 
     }
 }
