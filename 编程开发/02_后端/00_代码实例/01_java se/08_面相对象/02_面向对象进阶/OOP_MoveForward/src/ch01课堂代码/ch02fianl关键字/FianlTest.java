@@ -1,8 +1,8 @@
-package fianl关键字.课堂练习.常量;
+package ch01课堂代码.ch02fianl关键字;
 
 /**
  * ClassName: FianlTest
- * Package: fianl关键字.课堂练习
+ * Package: ch02课堂练习.课堂练习
  * Description:
  *
  * @Author:锏澹
@@ -33,6 +33,8 @@ public class FianlTest {
     public static void main(String[] args){
         //定义一个常量
         final int NUMBER = 100;
+        //使用一个常量
+        System.out.println(NUMBER+100);
         //更改值
         //NUMBER = 200;
 

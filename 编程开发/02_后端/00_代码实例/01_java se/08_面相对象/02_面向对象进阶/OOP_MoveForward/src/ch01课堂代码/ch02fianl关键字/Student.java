@@ -1,8 +1,8 @@
-package fianl关键字.课堂练习.常量;
+package ch01课堂代码.ch02fianl关键字;
 
 /**
  * ClassName: Student
- * Package: fianl关键字.课堂练习
+ * Package: ch02课堂练习.课堂练习
  * Description:
  *
  * @Author:锏澹

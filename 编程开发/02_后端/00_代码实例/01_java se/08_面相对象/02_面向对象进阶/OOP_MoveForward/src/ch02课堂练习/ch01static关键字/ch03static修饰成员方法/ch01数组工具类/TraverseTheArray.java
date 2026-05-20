@@ -1,4 +1,4 @@
-package ch02课堂练习.ch03static修饰成员方法.ch01数组工具类;
+package ch02课堂练习.ch01static关键字.ch03static修饰成员方法.ch01数组工具类;
 
 /**
  * ClassName: TraverseTheArray

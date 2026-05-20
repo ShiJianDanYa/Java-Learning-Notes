@@ -1,8 +1,8 @@
-package fianl关键字.课堂练习.圆;
+package ch02课堂练习.ch02fianl关键字.圆;
 
 /**
  * ClassName: Test
- * Package: fianl关键字.课堂练习.圆
+ * Package: ch02课堂练习.fianl关键字.圆
  * Description:
  *
  * @Author:锏澹
