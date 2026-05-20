@@ -1,8 +1,8 @@
-package 枚举.课堂练习.注意事项;
+package ch01课堂代码.ch03枚举.注意事项;
 
 /**
  * ClassName: Matters
- * Package: 枚举.课堂练习.注意事项
+ * Package: ch01课堂代码.ch03枚举.注意事项
  * Description:
  *
  * @Author:锏澹
@@ -23,7 +23,9 @@ public class Matters {
     valueOf（）：表示获取一个指定的枚举项OrderState.
     */
     public static void main(String[] args){
-        //两个方法调用
+        OrderStatus2 outForDelivery = OrderStatus2.OUT_FOR_DELIVERY;
+        System.out.println(outForDelivery.getName());
+        /*//两个方法调用
         OrderStatus2[] values = OrderStatus2.values();
         //输出
         for (int i = 0; i < values.length; i++) {
@@ -34,7 +36,7 @@ public class Matters {
         //注意()里面的名字是枚举项中对象名可不是name属性名
         OrderStatus2 outForDelivery = OrderStatus2.valueOf("OUT_FOR_DELIVERY");
         //输出
-        System.out.println(outForDelivery);
+        System.out.println(outForDelivery);*/
 
     }
 }
