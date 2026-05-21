@@ -1,4 +1,4 @@
-package ch02课堂练习.ch01继承.ch01手机电脑;
+package ch02课堂练习.ch01继承.ch01继承.ch01手机电脑;
 
 /**
  * ClassName: MobilePhone

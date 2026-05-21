@@ -1,4 +1,4 @@
-package ch01课堂代码.ch01继承.ch03继承中的成员变量;
+package ch01课堂代码.ch01继承.ch03继承中的成员变量特点;
 
 /**
  * ClassName: Test
