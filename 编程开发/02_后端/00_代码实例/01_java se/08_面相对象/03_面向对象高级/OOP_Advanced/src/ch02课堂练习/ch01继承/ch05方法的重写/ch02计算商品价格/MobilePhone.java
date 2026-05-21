@@ -1,4 +1,4 @@
-package 继承.课堂练习.方法重写.计算商品价格;
+package ch02课堂练习.ch01继承.ch05方法的重写.ch02计算商品价格;
 
 /**
  * ClassName: MobilePhone
@@ -10,7 +10,7 @@ package 继承.课堂练习.方法重写.计算商品价格;
  * @Version: v1.0
  *
  */
-public class MobilePhone extends IntelligentDevice{
+public class MobilePhone extends IntelligentDevice {
     /*
     * 方法重写时注意
     * 1. 如果完全重写不会利用父类代码,只需要完全重写子类方法即可
