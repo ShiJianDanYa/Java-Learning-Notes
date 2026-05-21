@@ -11,6 +11,7 @@ package ch02课堂练习.ch01继承.ch01手机电脑;
  *
  */
 public class Electronics {
+    //共有属性
     String name;
     double price;
 }

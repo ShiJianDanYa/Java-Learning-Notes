@@ -1,4 +1,4 @@
-package ch01课堂代码.ch01继承.ch01老师学生;
+package ch01课堂代码.ch01继承.ch01继承.ch01老师学生;
 
 /**
  * ClassName: Student
