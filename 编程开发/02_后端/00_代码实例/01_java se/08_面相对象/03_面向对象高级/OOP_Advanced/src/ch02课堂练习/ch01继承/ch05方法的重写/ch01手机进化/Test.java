@@ -1,4 +1,4 @@
-package 继承.课堂练习.方法重写.手机进化;
+package ch02课堂练习.ch01继承.ch05方法的重写.ch01手机进化;
 
 /**
  * ClassName: Test
@@ -39,6 +39,5 @@ public class Test {
         tg.call();
         tg.send();
         tg.playGame();
-
     }
 }
