@@ -50,9 +50,5 @@ public class Test {
         //计算价格
         double v2 = mp.calculatePrice();
         System.out.println("手机的品牌:"+mp.name+"\n 手机的原价"+mp.price+"\n优惠后价格"+v2);
-
-
-
-
     }
 }
