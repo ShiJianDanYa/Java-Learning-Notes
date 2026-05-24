@@ -19,24 +19,79 @@ banner-height: 710
 ## 1— java中的权限修饰符
 权限修饰符：其实就是JaVa中的关键字，用来控制一个成员被访问的范围
 修饰的内容：可以修饰成员变量，成员方法构造方法。·.等
-### 1.1— 种类
-![[附件存储/ed907609831114f4a0ce0fac1711df66_MD5.jpg]]
-专业一点
-![[附件存储/268ee68ad0a295e4e4a71d40a87eec7d_MD5.jpg]]
+作用范围由小到大 `（private<空着不写< protected < public)`
+权限修饰符
 
-代码演示
-private 修饰 除了同一个类其他均无法调用
-![[附件存储/20da4d53d5ce5fb5a6935b234d9ce527_MD5.jpg]]
-空着不写 本包生效
-![[附件存储/5dcfcc95d89df07212561c9c921b5b22_MD5.jpg]]
-以前创建 对象
-![[附件存储/8fd34efa357b4185e9a403be9654bb0c_MD5.jpg]]
-![[附件存储/277723ade607bb0c070685fbb7754014_MD5.jpg]]
-protected修饰
-![[附件存储/90435249fa7bc15ff312190c6bf28079_MD5.jpg]]
-public 修饰(公共的)
-![[附件存储/749882d006a6ae7994b702502bc9af73_MD5.jpg]]
+| 修饰符                                  | 同一个类 | 本包中其他类 | 不同包下的子类 | 不同包下的无关类 |
+| ------------------------------------ | :--: | :----: | :-----: | :------: |
+| <font color="#ff0000">private</font> |  ✅️  |   ❌️   | ❌️<br>  |  ❌️<br>  |
+| 空着/缺省/默认                             |  ✅️  |   ✅️   |   ❌️    |    ❌️    |
+| protected                            |  ✅️  |   ✅️   |   ✅️    |    ❌️    |
+| <font color="#ff0000">public         |  ✅️  |   ✅️   |   ✅️    |    ✅️    |
+## 代码演示
+体系结构截图
+![[01_权限修饰符_2026-05-24_14-42-41.png]]
 
+代码如下
+Person
+```java
+public class Person {  
+    //父类  
+    public String name;  
+    public void test(){  
+        System.out.println("父类test方法");  
+    }  
+    //同一类中  
+    public void show(){  
+        System.out.println(name);  
+        test();  
+    }  
+}
+```
+Student
+```java
+public class Student extends  Person{  
+    //本包子类  
+    //本包中的其他类(子类+无关类是一个逻辑)  
+    public void show(){  
+        System.out.println(name);  
+        super.test();  
+    }  
+}
+```
+Teacher
+```java
+package ch01课堂代码.ch02权限修饰符.bbb;  
+import ch01课堂代码.ch02权限修饰符.aaa.Person;
+public class Teacher extends Person {  
+    //不同包下的子类  
+    public void show(){  
+        System.out.println(name);  
+        super.test();  
+    }  
+}
+```
+Test
+```java
+package ch01课堂代码.ch02权限修饰符.bbb;  
+import ch01课堂代码.ch02权限修饰符.aaa.Person;
+public class Test {  
+    //不同包下的无关类  
+    public static void main(String[] args) {  
+        Person p = new Person();  
+        System.out.println(p.name);  
+        p.test();  
+    }  
+}
+```
+private
+![[02_权限修饰符_2026-05-24_14-53-59.png]]
+空着 不写
+![[03_权限修饰符_2026-05-24_15-12-45.png]]
+protected
+![[04_权限修饰符_2026-05-24_15-14-30.png]]
+public
+![[05_权限修饰符_2026-05-24_15-16-53.png]]
 # 3— 注意事项
 🈚️
 # 4— 知识扩展
