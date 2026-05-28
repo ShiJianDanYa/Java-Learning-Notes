@@ -1,0 +1,24 @@
+package ch01课堂代码.ch07内部类.ch02成员内部类;
+
+/**
+ * ClassName: Outer
+ * Package: ch01课堂代码.ch07内部类.ch02成员内部类
+ * Description:
+ *
+ * @Author:锏澹
+ * @Create: 2026/5/28 - 18:43
+ * @Version: v1.0
+ *
+ */
+public class Outer {
+
+	private class Inner{
+
+	}
+
+	//外部类 直接提供获取方法即可
+	public Inner getInstance(){
+		return new Inner();
+	}
+
+}
