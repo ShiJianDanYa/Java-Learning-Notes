@@ -1,4 +1,4 @@
-package ch01课堂代码.ch07内部类.ch02成员内部类;
+package ch01课堂代码.ch07内部类.ch02成员内部类.ch01创建内部类对象;
 
 /**
  * ClassName: Outer
