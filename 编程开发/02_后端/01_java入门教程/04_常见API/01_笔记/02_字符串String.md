@@ -93,7 +93,7 @@ s 2 同理
 `new：` 每次都会创建一个新的字符串对象
 
 ## 字符串常见的成员方法
-### 比较
+### 比较字符串
 ```java
 //比较
 String s1 = new String("abc");
@@ -113,7 +113,7 @@ false
 
 #### 格式
 ```java
-boolean eguals方法(要比较的字符串）  		   //完全样结果才是true，否则为false
+boolean equals方法(要比较的字符串）  		   //完全样结果才是true，否则为false
 boolean equalsIgnoreCase(要比较的字符串）  //忽略大小写的比较
 ```
 
@@ -128,12 +128,39 @@ publicintlength();							返回此字符串的长度
 
 
 ## 截取字符串
+格式
 ```java
 String substring(int beginlndex, int endIndex)        截取
 注意点：包头不包尾，包左不包右
 	   只有返回值才是截取的小串
 String substring(int beginlndex)				      截取到末尾
 ```
+🌰
+```java
+
+```
+
+## 替换字符串
+```java
+Stringreplace(旧值，新值）替换
+注意点：只有返回值才是替换之后的结果
+subString截取：截取固定位置的数据
+replac替换：位置不确定，替换指定内容
+```
+
+## 常用方法
+contains
+ctrl+鼠标左键
+源代码
+![[01_其他常用方法_2026-06-02_08-44-05.png]]
+ctrl+鼠标左键
+![[02_其他常用方法_2026-06-02_08-45-59.png]]
+实现接口
+![[03_其他常用方法_2026-06-02_08-48-28.png]]
+这个接口就是提供了一些字符串读取的规则
+如果一个方法的形参,那我们就可以传递字符串对象
+![[04_其他常用方法_2026-06-02_08-52-38.png]]
+
 
 # 3— 扩展知识
 <% tp.file.cursor(3) %>
