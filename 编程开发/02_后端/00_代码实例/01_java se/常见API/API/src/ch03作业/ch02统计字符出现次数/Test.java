@@ -28,7 +28,6 @@ public class Test {
 		//循环遍历统计次数
 		//创建变量统计次数
 		int count = 0;
-
 		//循环遍历
 		 for (int i = 0; i < str.length(); i++) {
 			 char c = str.charAt(i);
@@ -36,7 +35,6 @@ public class Test {
 			 if(c == ch || c == ((ch >= 'A' && ch <= 'Z') ? ch + 32 : ch - 32)){
 				 count++;
 			 }
-
 		 }
 		//输出次数
 		System.out.println(count);
