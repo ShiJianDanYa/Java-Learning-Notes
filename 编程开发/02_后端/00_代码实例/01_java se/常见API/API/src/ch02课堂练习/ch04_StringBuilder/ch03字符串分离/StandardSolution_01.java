@@ -54,6 +54,5 @@ public class StandardSolution_01 {
 				System.out.print("0");
 			}
 		}
-
 	}
 }

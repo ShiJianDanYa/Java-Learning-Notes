@@ -49,6 +49,5 @@ public class StandardSolution_02 {
 			//每8个截取
 			System.out.println(str.substring(i,i+8));
 		}
-
 	}
 }

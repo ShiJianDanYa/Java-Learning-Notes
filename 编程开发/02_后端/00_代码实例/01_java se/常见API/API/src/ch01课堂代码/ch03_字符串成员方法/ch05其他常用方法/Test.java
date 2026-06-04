@@ -37,7 +37,7 @@ public class Test {
 		//contains---敏感词过滤  tmd
 		//替换之前判断是否存在 存在才替换
 		System.out.println(str.contains("llo"));
-		System.out.println(str.startsWith("nihc"));
+		System.out.println(str.contains("nihc"));
 
 		//判断开头、结尾          startsWith/endswith
 		//判断文件的后缀名

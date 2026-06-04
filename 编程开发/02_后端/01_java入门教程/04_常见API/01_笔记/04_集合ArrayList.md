@@ -15,9 +15,8 @@ banner-height: 760
 
 # 1— 引入问题
 数组一旦定义完成长度是不可变的
-增加 删除 插入数据 都会很麻烦 
-必须新建一个数组，再把符合要求的数据放入
-
+增加 删除 插入 数据 都会很麻烦 
+必须新建一个数组，再把符合要求的数据依次存入
 # 2— 核心内容
 ## 集合定义
 `集合：` 是一种长度可变的容器
@@ -37,6 +36,7 @@ int[] arr = new int[3]; 我们一眼就可以看出是 存储 int 类型的数�
 那我们取出的时候改用什么类型接收呢，用最终父类 Object
 多态可以 ，但是弊端呢 ，子类独有方法该怎么用呢？
 转为子类，如果协同开发，代码是你同事写的又该如何呢？
+## 泛型
 泛型：限定集合当中的数据类型<数据类型>
 ```java
 ArrayList<String> list = new ArrayList<String>();
@@ -54,13 +54,22 @@ ArrayList<String> list = new ArrayList<>();
 | E set(int index,E e)     | 修改元素 |
 | E get(int index)         | 获取元素 |
 | int size()               | 集合长度 |
-添加数据
+### 添加数据
+细节 1
+ArrayList 的 add 方法不管添加什么都添加成功，忽略返回值即可   true：添加成功 false:添加失败  
+细节 2
+如果集合长度为 3，那么下面方法要添加的索引范围只能是 0~3 
+如果索引 是3 把当前元素添加到集合的末尾，等同于一个参数的 add 方法 
+如果要添加的索引超出了这个范围，程序就会直接报错  
+细节 3
+在集合当中无法直接添加基本数据类型的（byte short int long float double char boolean）   只能添加引用数据类型（对象） 如果在集合里面一定要添加基本数据类型，那么可以转成其对应的[[05_包装类|包装类]]
 ```java
 //添加数据  
 //细节1：ArrayList的add方法不管添加什么都添加成功，忽略返回值即可  
 //true：添加成功 false:添加失败  
 //此时add方法在任意情况下，都会添加成功，永远不会失败  
-//因为在Java当中，有很多很多的集合HashSet（元素要唯一）  aaa(true) aaa(false)//设计：跟其他的集合保持统一（面向对象的思想）  
+//因为在Java当中，有很多很多的集合HashSet（元素要唯一）  aaa(true) aaa(false)
+//设计：跟其他的集合保持统一（面向对象的思想）  
 boolean hello = list.add("hello");  
 System.out.println(hello);  
 list.add("world");  
@@ -88,7 +97,11 @@ true
 [hello, world, java]
 [hello, world, 插入, java]
 ```
-删除方法
+### 删除方法
+细节一
+根据元素的内容进行删除的存在 删除成功 true 不存在删除失败 false
+细节 二
+根据索引进行删除的   会把被删除的元素进行返回  如果当前的索引不存在，代码会报错  
 ```java
 //删除方法  
 //boolean remove(E e)       根据元素删除  
@@ -115,7 +128,9 @@ true
 删除元素为插入
 [hello, java]
 ```
-修改
+### 修改方法
+细节一 如果当前的索引不存在，代码会报错
+细节二 把指定索引上的数据修改为新的数据，把被替换的元素进行返回 
 ```java
 //E set(int index,E e)     将指定位置的数据，修改为新元素  
 //细节：  
@@ -131,7 +146,7 @@ System.out.println(list);
 被修改的元素为：java
 [hello, 修改]
 ```
-获取
+### 获取方法
 ```java
 //E get(int index)                                获取元素  
 //     int size()                                      集合长度  
@@ -156,6 +171,6 @@ hello
 [hello, 修改]
 ```
 # 3— 扩展知识
-<% tp.file.cursor(3) %>
+🈚️
 # 4— 总结复习
-<% tp.file.cursor(4) %>
+🈚️

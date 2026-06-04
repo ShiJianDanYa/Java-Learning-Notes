@@ -47,7 +47,5 @@ public class intercepting {
 		String sub4 = name.substring(0,1);
 		sub4+="***";
 		System.out.println(sub4);
-
-
 	}
 }

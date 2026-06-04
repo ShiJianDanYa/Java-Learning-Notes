@@ -35,6 +35,5 @@ public class Test {
 			char c = s1.charAt(i);
 			System.out.println(c);
 		}
-
 	}
 }

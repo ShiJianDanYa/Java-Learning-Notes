@@ -41,9 +41,5 @@ public class ch02_StringBuilder {
 		//变回字符串
 		String str = sb1.toString();
 		System.out.println(str);
-
-
-
-
 	}
 }
