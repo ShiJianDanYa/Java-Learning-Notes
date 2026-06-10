@@ -17,7 +17,7 @@ banner-height: 870
 用户登录对比用户名和密码
 快递填写地址,一整块文字如何正确分割
 游戏敏感词替换
-这些情况几乎都会用到次数还不低,总不能每次登录界面自己再写对比方法吧
+这些情况开发中几乎都会用到次数还不低,总不能每次开发都自己再写一遍吧,太麻烦了/
 # 2— 核心内容
 ## 定义
 String 类，定义在 `java.lang 包` 下，`无需导包`。
@@ -251,7 +251,10 @@ public int length();						返回此字符串的长度
 数组的长度：数组名.length
 字符串的长度：字符串对象.length()
 ```
-注意字符长度是方法后面有();
+注意 
+1. charAt 也有索引越界问题,
+2. 字符长度是方法后面有();
+
 例子
 ```java
 // charAt  
@@ -291,7 +294,7 @@ for (int i = 0; i < s1.length(); i++) {
 ```java
 String substring(int beginlndex, int endIndex)        截取
 注意点：包头不包尾，包左不包右
-	   只有返回值才是截取的小串
+	   只有返回值才是截取之后的结果
 String substring(int beginlndex)				      从beginlndex开始直接截取到末尾
 ```
 

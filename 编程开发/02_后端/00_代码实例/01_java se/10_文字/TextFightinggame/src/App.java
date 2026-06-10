@@ -1,3 +1,4 @@
+import com.itheima.ui.FightingGame;
 import com.itheima.ui.Login;
 
 /**
@@ -17,5 +18,7 @@ public class App {
 		//启动登录注册的页面
 		Login lg = new Login();
 		lg.start();
+
+
 	}
 }

@@ -4,6 +4,7 @@ import com.itheima.domain.User;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 import java.util.Scanner;
 import java.util.zip.InflaterInputStream;
 
@@ -29,7 +30,7 @@ public class Login {
 			System.out.println("╔════════════════════════════════╗");
 			System.out.println("    🎮 欢迎来到文字格斗游戏 🎮   ");
 			System.out.println("╚════════════════════════════════╝");
-			System.out.println("请选择操作：1登录 2注册 3退出");
+			System.out.println("请选择操作：1登录 2注册 3退出 ");
 			//接收用户输入
 
 			String choice = sc.next();
@@ -58,9 +59,89 @@ public class Login {
 	//登录操作
 	public void login(ArrayList<User> list) {
 		System.out.println("登录操作");
+		Scanner sc = new Scanner(System.in);
+		System.out.println("请输入用户名：");
+		String username = sc.next();
+		 //先判断用户名是否存在
+		 if(!contains(list,username)){
+			 System.out.println("当前用户"+username+"不存在,请注册后登录");
+			 //用户不存在
+			 return;
 
+		 }
+		//3。存在：禁用，提示联系客服~
+		//通过username，获取到当前的用户对象，再看账户的状态
+		int index = findIndex(list,username);
+		User  u = list.get(index);
+		if (!u.isStatus()) {
+			System.out.println("当前用户"+username+"已禁用，请联系客服");
+			//如果用户名禁用，结束登录的行为，回到选择界面当中去注册
+			return;
+		}
+
+		//比较 次数🚫三次
+		for (int i = 0; i < 3; i++) {
+			//用户输出验证码和密码
+			//密码
+			System.out.println("请输入密码：");
+			String password = sc.next();
+			//每次验证密码的时候，都要输入验证码（人机)
+			while (true) {
+				//验证码
+				//获取验证码
+				String code = getCode();
+				System.out.println("验证码是："+code);
+
+				System.out.println("请输入验证码：");
+				String code1 = sc.next();
+				//判断验证码是否一致
+				if (code.equalsIgnoreCase(code1)) {
+					System.out.println("验证码正确");
+					//如果验证码输入正确，跳出循环，继续判断密码2
+					break;
+				}else{
+					System.out.println("验证码输入有误，请重新输入");
+					//如果验证码输入错误，需要重新生成一个新的验证码，并且让用户重新输入
+					continue;
+				}
+			}
+
+			//验证 密码 是否正确
+			String rightpassword = u.getPassword();
+			if (rightpassword.equals(password)) {
+				System.out.println("登录成功");
+				//创建FightingGame类的对象，并调用方法启动游戏
+				FightingGame fg = new FightingGame();
+				fg.gameStart(username);
+				break;
+			}else{
+				System.out.println("密码输入有误，请重新输入");
+				if(i==2){
+					u.setStatus(false);
+					System.out.println("当前账户"+username+"已锁定，请联系客服xxX：XxxxxX~");
+					return;
+				}else {
+					System.out.println("您还有"+(2-i)+"次机会");
+				}
+			}
+		}
+	}
+
+
+
+	//作用 在集合当中去寻找username所在的索引
+	public int findIndex(ArrayList<User>  List, String username){
+		for (int i = 0; i < List.size(); i++) {
+			User u = List.get(i);
+			if(u.getUsername().equals(username)){
+				return i;
+			}
+		}
+		return -1;
 
 	}
+
+
 	//作用：判断用户名在集合当中是否包含
 	public boolean contains(ArrayList<User> List,String username){
 		for (int i = 0; i < List.size(); i++) {
@@ -231,6 +312,42 @@ public class Login {
 		//1：数字的个数
 		//2：其他字符的个数
 		return arr[0] > 0 && arr[1] >= 0 && arr[2] == 0;
+	}
+
+	//生成验证码方法
+	public static String getCode(){
+		/*
+		长度为5
+		由4位大写或者小写字母和1位数字组成，
+		同一个字母可重复数字可以出现在任意位置
+		比如：aQa1K
+		*/
+		//随机数
+		Random rd = new Random();
+		//首先创建字符数组,存储大小写字母
+		char[] chs = new char[52];
+		//添加字母
+		for (int i = 0; i < chs.length/2;i++) {
+			chs[i * 2] = (char)('A' + i);
+			chs[i * 2 + 1] = (char)('a' + i);
+		}
+		//随机抽取4个字符
+		char[] arr = new char[5];
+		for (int i = 0; i < arr.length-1; i++) {
+			int index = (int)(rd.nextInt(chs.length));
+			arr[i] = chs[index];
+		}
+		//添加数字
+		arr[4] = (char) (rd.nextInt(10)+'0');
+		//随机调换位置
+		for (int i = 0; i < arr.length; i++) {
+			int index = (int)(rd.nextInt(arr.length));
+			char temp = arr[i];
+			arr[i] = arr[index];
+			arr[index] = temp;
+		}
+		//转为字符串并返回
+		return new String(arr);
 	}
 
 }
