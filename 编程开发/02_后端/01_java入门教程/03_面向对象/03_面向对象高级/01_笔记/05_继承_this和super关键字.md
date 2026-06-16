@@ -67,7 +67,11 @@ public class Schoolmate {
 调用顺序
 ![[02_this和super关键字_2026-05-22_08-42-11.png]]
 运行结果
-![image.png](https://obsidian-1332276919.cos.ap-guangzhou.myqcloud.com/20260320114456272.png)
+```test
+同学 18
+
+进程已结束，退出代码为 0
+```
 
 # 3— 注意事项
 

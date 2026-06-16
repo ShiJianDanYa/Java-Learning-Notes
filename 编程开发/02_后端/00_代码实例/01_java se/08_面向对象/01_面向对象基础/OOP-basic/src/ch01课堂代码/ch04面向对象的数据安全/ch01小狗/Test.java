@@ -21,6 +21,5 @@ public class Test {
         System.out.println("小狗年龄:"+d1.getAge());
         //调用方法
         d1.eat();
-
     }
 }
