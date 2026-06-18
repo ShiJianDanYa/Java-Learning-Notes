@@ -1,4 +1,4 @@
-package ch01课堂代码.ch02fianl关键字;
+package ch01课堂代码.ch02fianl关键字.ch01final;
 
 /**
  * ClassName: FianlTest

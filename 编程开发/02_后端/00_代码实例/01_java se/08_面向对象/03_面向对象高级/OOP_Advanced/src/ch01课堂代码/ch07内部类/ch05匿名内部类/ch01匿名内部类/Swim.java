@@ -1,4 +1,4 @@
-package ch01课堂代码.ch07内部类.ch05匿名内部类;
+package ch01课堂代码.ch07内部类.ch05匿名内部类.ch01匿名内部类;
 
 /**
  * ClassName: Swim
