@@ -10,8 +10,7 @@ date: 2026-03-29
 banner: "![[pixel-banner-images/2B Floral.jpg]]"
 banner-height: 480
 ---
-# 知识目录
-![[03_java.png]]
+
 # 1— 引入问题
 到底java是什么?
 # 2— 核心内容
@@ -30,8 +29,8 @@ Java是一门非常火的计算机语言。（也叫做编程语言）​
 >[!NOTE]  助记 司马58同城
 >6. <font color="#ff5c00">2004 java5 java第一个大版本更新</font>
 >7. <font color="#ff5c00">2014 Java8 绝大公司使用</font>
-### 0.3— java用途
-#### 0.3.1— java版本区别
+
+### 0.3— java版本区别
 >[!NOTE]  助记 助记 🐍是基础 上面有♣️小型 🪿企业
 >
 1 <font color="#ff0000">java se 标准版(镖准) 桌面应用开发 是其他两个版本的基础</font>
