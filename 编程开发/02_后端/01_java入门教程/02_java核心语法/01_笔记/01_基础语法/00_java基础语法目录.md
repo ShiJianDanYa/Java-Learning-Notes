@@ -18,9 +18,9 @@ banner: "![[pixel-banner-images/saya the fox (2).jpg]]"
 banner-height: 1090
 ---
 
-# 🎯 java核心语法
+# 🎯 java 基础语法
 ## 1— 1️⃣ 模块概览
-> [!INFO] 📌 **模块一句话**：{{15字内说清本模块核心目标}}
+> [!INFO] 📌 **模块一句话**：学会 java 中基础语法
 > **📁模块名称**：java基础语法
 > **🎯核心目标**：学会 java 基础语法
 > **⏱️预计时长**：3天
